@@ -10,7 +10,7 @@ You can see all packages in package.json
 ## Beginning 
 Clone this repository on your local machine.
 <br>
-`git clone https://github.com/sakiphan/codeTalks/tree/master`
+`git clone https://github.com/sakiphan/jobsApp`
 
 ## Use 
 To use it after cloning the project: 
